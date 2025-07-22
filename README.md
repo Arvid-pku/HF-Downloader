@@ -1,6 +1,6 @@
 # Hugging Face Batch Downloader
 
-A Tampermonkey userscript that adds batch download functionality to Hugging Face model pages.
+[A Tampermonkey userscript that adds batch download functionality to Hugging Face model pages](https://greasyfork.org/zh-CN/scripts/543283-hugging-face-batch-downloader).
 
 ## Features
 
